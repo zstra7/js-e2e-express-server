@@ -6,9 +6,9 @@
 trigger:
 - main
 
-#pool:
-#  vmImage: ubuntu-latest
-pool: MyPool
+pool:
+  vmImage: ubuntu-latest
+#pool: MyPool
 
 
 steps:
